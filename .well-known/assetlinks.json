@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.teeenors.twa",
+    "sha256_cert_fingerprints": [
+      "fbc2ed59e86e5e224cbd8d12a42a4ae1672832b4dc54334e1ce68070ffe45b70"
+    ]
+  }
+}]
